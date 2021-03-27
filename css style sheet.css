@@ -1,0 +1,70 @@
+
+li {color:green;
+    font-family:Sans-Serif;
+    font-size:14;
+    flex-wrap:wrap;
+    background-color: white;
+    margin: 5px;
+    padding:5px;
+    border:1px;
+}
+.h1{color:blue;
+background-color: pink;
+font-family:Monospace;
+margin:7px;
+padding:7px;
+border:3px;
+    font-size:.75in;
+    width: .95in;
+}
+.red {
+    color: red;
+}
+.div12 {background-color:yellow;
+    padding: 29px;
+    margin:13px;
+    border:29px;
+}
+.day {color: purple;}
+.no-text-here {
+text-align: center;
+border: 4 black;
+background-color: red;
+color: black;
+flex-wrap:wrap;
+padding: 3em;
+margin: 2em;
+}
+.button {color: blue;
+text-align: center;
+flex-wrap: wrap;
+border:2px black;
+background-color: green;
+padding: 1em ;
+
+margin: 2em;}
+.menu-style {
+text-align: center;
+float: right;
+background-color: yellow;
+padding: 1em;
+margin: 3em;
+border: 4px black;
+font-family: Monospace;
+display: flex;
+grid-template-columns: 100px 100px 100px;
+flex-wrap: wrap;
+overflow: auto;
+}
+.menu-buttons{background-color:blue;
+margin: 2em;
+ height: 20px;
+text-align: center;
+display:flex;
+flex-wrap: wrap;
+flex-direction: row;
+justify-content: space-around;
+grid-template-columns: 50px 50px 50px 50px;
+width: 100px;
+
+}
